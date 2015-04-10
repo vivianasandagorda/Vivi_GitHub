@@ -5,3 +5,8 @@ Soy viviana sandagorda
 Mas Modificaciones
 
 Estamos probando
+
+while (true){
+	if i=0 then
+	nada
+}
