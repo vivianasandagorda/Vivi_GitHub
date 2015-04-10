@@ -6,8 +6,7 @@ Mas Modificaciones
 
 Estamos probando
 
-Nueva super modificacion
-
-Mas codigo
-etc
-etc
+while (true){
+	if i=0 then
+	nada
+}
