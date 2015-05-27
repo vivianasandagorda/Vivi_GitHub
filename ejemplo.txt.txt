@@ -2,7 +2,5 @@ int a= 0;
 int b= 0;
 while (true){
 	if i=0 then
-	   a=b+c;
-	else
-		c=a+b;
+	   a=b+c;	
 }
