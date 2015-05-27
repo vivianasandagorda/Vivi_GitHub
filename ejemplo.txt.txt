@@ -3,5 +3,7 @@ int b=1;
 int c;
 while (true){
 	if i=0 then
-	   a=b+c;	
+	   a=b+c;
+	else
+		c=a+b;
 }
