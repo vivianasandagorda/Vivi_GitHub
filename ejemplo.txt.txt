@@ -1,21 +1,8 @@
-Esto es un ejemplo
-
-Soy viviana sandagorda
-
-Mas Modificaciones
-
-Estamos probando
-
+int a=0;
+int b=0;
+int c;
 while (true){
 	if i=0 then
+	   a=b+c;
 	nada
 }
-ghj
-ghj
-gj
-ghj
-gggg
-
-g
-h
-ghj
