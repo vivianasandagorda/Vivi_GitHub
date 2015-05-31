@@ -3,8 +3,9 @@ int b=1;
 int c;
 if (i != 0) then{
 while (true){
-	if i=0 then
+	if i=0 then	  
 	   c=b+a;
 }
 else
-	System.out.println("Nada ue hacer");
+	System.out.println("Nada ue hacer");	 
+}
