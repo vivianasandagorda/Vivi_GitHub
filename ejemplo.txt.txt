@@ -1,7 +1,12 @@
 int a=1;
 int b=3;
-int c;
+int c=0;
+if (i != 1) then{
 while (true){
-	if i=0 then
-	   a=b+c;
+	if (i=0) then	  
+	   c=b+a;
+	   c+=1;
+}
+else
+	System.out.println("Nada ue hacer");	 
 }
