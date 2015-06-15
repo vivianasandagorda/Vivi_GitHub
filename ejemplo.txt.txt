@@ -1,8 +1,17 @@
-int a= 0;
-int b= 0;
-while (true){
-	if i=0 then
-	   a=b+c;
-	else
-		c=a+b;
+int a=1;
+int b=3;
+int c=0;
+if (i != 1) then{
+	while (true){
+		if (i=0) then{	  
+		   c=2*(b+a);		   
+		   c+=1;
+		}
+		else{
+			c=2*(b-a);			
+			c+=1;
+		}
+	}
+else
+	System.out.println("Nada ue hacer");	 
 }
